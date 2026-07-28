@@ -64,12 +64,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrince989&layout=compact&theme=dark&hide_border=true&border_radius=10" alt="Top Languages" />
-  <img width="440" src="https://github-readme-stats.vercel.app/api?username=CodeWithPrince989&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithPrince989&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="440" src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrince989&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrince989&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrince989&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ### ✍️ Random Dev Quote
