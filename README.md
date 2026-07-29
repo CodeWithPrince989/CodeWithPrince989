@@ -50,7 +50,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres,prisma,vercel,python,pandas,matplotlib" alt="Frontend and Data tools" />
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman,docker,jenkins,linux,aws-EC2" alt="Developer tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman,docker,jenkins,linux,aws" alt="Developer tools" />
 </p>
 
 <p align="left">
