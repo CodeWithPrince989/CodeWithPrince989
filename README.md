@@ -7,9 +7,9 @@
 </div>
 
 ---
-<video autoplay loop muted playsinline>
-<img align="right" alt="Coding" width="300" height="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-</video>
+
+<img align="right" autoplay loop alt="Coding" width="300" height="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 
 - 🔭 I'm currently working on my [Portfolio](https://princewin.netlify.app/)
 - 🌱 I'm currently learning Machine Learning and Data Science workflows
