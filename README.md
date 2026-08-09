@@ -1,18 +1,11 @@
-﻿<h1 align="center">
-  <a href="https://github.com/CodeWithPrince989">
+﻿<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Prince+Singh;Data+Scientist;ML+Enthusiast;Developer+%26+Visualizer" alt="Typing SVG" />
-  </a>
-
-
-<!-- <h3 align="center">Aspiring Data Scientist | ML Enthusiast | Problem Solver</h3> -->
 
 ### AI & ML Engineer | Full-Stack Developer | Learner | Builder
-
 <img src="https://komarev.com/ghpvc/?username=Arindam2003&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-</h1>
-
-
+---
 
 <img align="right" alt="Coding" width="300" height="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
