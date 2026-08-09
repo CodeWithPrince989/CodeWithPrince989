@@ -56,21 +56,47 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🧠 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,next,nodejs,express,ts,mongodb,postgres,prisma,vercel,python,pandas,matplotlib" alt="Frontend and Data tools" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,mysql,java,c,bash,vite,npm,figma,postman,docker,jenkins,linux,aws,kubernetes,c,cpp,flask,github,notion,opencv,django,pytorch,replit,sklearn,tensorflow,ubuntu,netlify,terraform,supabase,stackoverflow,nginx,java,fastapi,anaconda," alt="Developer tools" />
+### 🔹 Core Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Shell%20Scripting-bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting" />
-  <img src="https://img.shields.io/badge/Networking-CC0000?style=for-the-badge&logo=networkx&logoColor=white" alt="Networking" />
+### 🔹 Web Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45"/>
 </p>
 
-<br></br>
+### 🔹 Tools & Others
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45"/>
+</p>
+
+--- 
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithPrince989&theme=redical"/>
+
+---
+
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &ensp;<b>Stats</b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
