@@ -98,15 +98,12 @@
 ---
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &ensp;<b>Stats</b>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## ✍️ Random Dev Quote
 
-<div align="center">
-  <p><b>GitHub Activity</b></p>
-  <p>Visit <a href="https://github.com/CodeWithPrince989">my GitHub profile</a> to see repositories, contributions, and recent work.</p>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
 </div>
-
-### ✍️ Random Dev Quote
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
