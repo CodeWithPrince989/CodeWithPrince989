@@ -1,9 +1,10 @@
-﻿<p align="center">
+﻿<div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Prince+Singh;Data+Scientist;ML+Enthusiast;Developer+%26+Visualizer" alt="Typing SVG" />
 
 ### AI & ML Engineer | Full-Stack Developer | Learner | Builder
 <img src="https://komarev.com/ghpvc/?username=Arindam2003&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+
+</div>
 
 ---
 
