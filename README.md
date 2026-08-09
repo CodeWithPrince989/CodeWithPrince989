@@ -44,6 +44,18 @@
   </a>
 </p>
 
+---
+
+## 💻 My Workspace
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Window11-R3-000000?style=flat&logo=apple"/>
+  <img src="https://img.shields.io/badge/RAM-8GB-silver?style=flat"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
