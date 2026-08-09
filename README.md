@@ -16,7 +16,6 @@
 - 🌱 I'm currently learning Machine Learning and Data Science workflows
 - 📫 Reach me at princekumarsingh016592@gmail.com
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/CodeWithPrince989)
-- 💬 Ask me about Data Visualization, Data Analytics, and AI/ML
 - 📄 Know about my experience on [LinkedIn](https://www.linkedin.com/in/prince-singh-188676280/)
 
 <br></br>
