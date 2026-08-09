@@ -1,4 +1,4 @@
-﻿<p align="right">
+﻿<p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodeWithPrince989&label=Profile%20views&color=0e75b6&style=flat" alt="CodeWithPrince989" />
 </p>
 
