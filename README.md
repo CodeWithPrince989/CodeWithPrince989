@@ -1,61 +1,37 @@
-﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Prince%20Singh&fontSize=80&fontAlignY=35&animation=twinkling" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=220&section=header&text=Prince%20Singh&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Prince Singh — AI, machine learning, and full-stack development" />
 </div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&size=35&duration=4000&pause=0200&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi,+%F0%9F%91%8B+I'm+Prince;AI-ML+Engineer;ML+Enthusiast;Full+Stack+Developer;Learner;Builder+%26+Visualizer" alt="Typing SVG" />
-
-### AI & ML Engineer | Full-Stack Developer | Learner | Builder
-
-<img src="https://komarev.com/ghpvc/?username=CodeWithPrince989&label=Profile%20Views&color=0e75b6&style=flat" />
-
+  <h1>Hi, I'm Prince 👋</h1>
+  <p><strong>AI &amp; ML Engineer · Full-Stack Developer · Lifelong Learner</strong></p>
+  <p>I build useful web experiences and explore how machine learning can solve real-world problems.</p>
+  <a href="https://princewin.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio"/></a>
+  <a href="https://www.linkedin.com/in/prince-singh-188676280/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+  <a href="mailto:princekumarsingh016592@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/></a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=CodeWithPrince989&label=PROFILE%20VIEWS&color=312E81&style=flat" alt="Profile views"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## About
 
-<img align="right" autoplay loop alt="Coding" width="300" height="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+- 🔭 Building and improving my [portfolio](https://princewin.netlify.app/).
+- 🌱 Learning machine learning and data science workflows.
+- 💻 Browse my work on [GitHub](https://github.com/CodeWithPrince989).
 
-- 🔭 I'm currently working on my [Portfolio](https://princewin.netlify.app/)
-- 🌱 I'm currently learning Machine Learning and Data Science workflows
-- 📫 Reach me at princekumarsingh016592@gmail.com
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/CodeWithPrince989)
-- 📄 Know about my experience on [LinkedIn](https://www.linkedin.com/in/prince-singh-188676280/)
-
-<br></br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:princekumarsingh016592@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/prince-singh-188676280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://princewin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-### 💻 My Workspace
+## My Workspace
 
 <p align="center">
-<img src="https://img.shields.io/badge/Windows_11-0078D6?style=flat&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAM-8GB-silver?style=flat"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code"/>
+  <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Memory-8_GB-64748B?style=for-the-badge" alt="8 GB RAM"/>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ## 🧠 Tech Stack
 
-<div align="center">
+<p>Click any icon to open its official documentation or learning guide.</p>
 
-
-### 🔹 Languages & Fundamentals
+### Languages & Fundamentals
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -68,7 +44,7 @@
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer" title="PostgreSQL documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
 
-### 🔹 Web Development
+### Web Development
 
 <p>
   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer" title="MongoDB documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/></a>
@@ -86,7 +62,7 @@
   <a href="https://learning.postman.com/docs/" target="_blank" rel="noreferrer" title="Postman documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" alt="Postman"/></a>
 </p>
 
-### 🔹 AI & ML Learning Ecosystem
+### AI & Machine Learning
 
 <p align="left">
   <a href="https://docs.opencv.org/" target="_blank" rel="noreferrer" title="OpenCV documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" alt="OpenCV"/></a>
@@ -105,7 +81,22 @@
   <a href="https://www.tensorflow.org/learn" target="_blank" rel="noreferrer" title="TensorFlow learning resources"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45" alt="TensorFlow"/></a>
 </p>
 
-### 🔹 Tools & Others
+### Explore Next: Modern & Cloud-Native
+
+<p align="left">
+  <em>Topics to explore next — not a list of tools I currently use.</em><br/><br/>
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go documentation"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></a>
+  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer" title="The Rust Programming Language"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></a>
+  <a href="https://bun.sh/docs" target="_blank" rel="noreferrer" title="Bun documentation"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun"/></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS documentation"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer" title="Microsoft Azure documentation"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer" title="Google Cloud documentation"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer" title="GitHub Actions documentation"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
+  <a href="https://grafana.com/docs/" target="_blank" rel="noreferrer" title="Grafana documentation"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/></a>
+  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer" title="Prometheus documentation"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+</p>
+
+### Tools & Platforms
 
 <p>
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer" title="Git documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/></a>
@@ -133,32 +124,22 @@
   <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer" title="Windows documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="45" alt="Windows 11"/></a>
   <a href="https://docs.web3js.org/" target="_blank" rel="noreferrer" title="web3.js documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/web3js/web3js-original.svg" width="45" alt="web3.js"/></a>
 </p>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+## Featured Projects
 
-### 🚀 Featured Projects
+### [AI Attendance System](https://snapclassai-com.onrender.com/)
 
-- **[Portfolio](https://princewin.netlify.app/)**
-  - Build with html css and javascript
-  - Hosted on Vercel
+Face-recognition attendance with class enrollment, teacher dashboards, and attendance analytics. Uses Supabase for data storage.
 
-- **[AI Attandance System](https://snapclassai-com.onrender.com/)**
-  - 👤 Face Recognition - AI-powered facial recognition for automatic attendance
-  - ⚡ Lightning Fast - Mark attendance in under 30 seconds
-  - 🎓 Teacher Dashboard - Manage classes and view reports
-  - 📊 Analytics - Detailed attendance insights
-  - 🔐 Secure - Encrypted database with Supabase
-  - 🌐 Easy Enrollment - QR code based class joining
+### [AI Gym Coach](https://princeaigymcoachlandingpage.vercel.app/)
 
-- **[AI_GYM_COACH](https://princeaigymcoachlandingpage.vercel.app/)**
-  - 👤 Developed an interactive, AI-powered fitness assistant web application designed to help users track workouts, maintain form, and receive personalized coaching insights.
-  - ⚡ Tech Stack: Python, Streamlit, Supabase, Vercel, Render.
-  - 🎓 Developed an AI-powered fitness assistant web app using Python, MediaPipe, Streamlit, and Supabase for real-time posture tracking and workout logging
+An AI-assisted fitness app for posture tracking and workout logging, built with Python, MediaPipe, Streamlit, and Supabase.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+### [Portfolio](https://princewin.netlify.app/)
 
-### 📊 GitHub Activity
+Personal portfolio built with HTML, CSS, and JavaScript.
+
+## GitHub Activity
 
 <div align="center">
   <picture>
@@ -168,28 +149,19 @@
   </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-### 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithPrince989&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Prince's GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrince989&theme=tokyonight&hide_border=true&background=0D1117" alt="Prince's GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrince989&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <a href="https://github.com/CodeWithPrince989">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeWithPrince989&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub profile statistics"/>
+  </a>
+  <a href="https://github.com/CodeWithPrince989">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrince989&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used programming languages"/>
+  </a>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithPrince989&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <p align="center">
-  <strong><i>Building intelligent, highly creative digital experiences.</i></strong>
+  <strong>Building thoughtful software, one project at a time.</strong>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
-## ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-</div>
