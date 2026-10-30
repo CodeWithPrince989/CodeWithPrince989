@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0EA5E9&height=220&section=header&text=Prince%20Singh&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" alt="Prince Singh — AI, machine learning, and full-stack development" />
 </div>
 
@@ -153,9 +153,6 @@ Personal portfolio built with HTML, CSS, and JavaScript.
 
 <div align="center">
   <a href="https://github.com/CodeWithPrince989">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=CodeWithPrince989&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub profile statistics"/>
-  </a>
-  <a href="https://github.com/CodeWithPrince989">
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithPrince989&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Most used programming languages"/>
   </a>
   <br/>
@@ -165,3 +162,9 @@ Personal portfolio built with HTML, CSS, and JavaScript.
 <p align="center">
   <strong>Building thoughtful software, one project at a time.</strong>
 </p>
+
+## ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
