@@ -157,6 +157,11 @@
   - 🔐 Secure - Encrypted database with Supabase
   - 🌐 Easy Enrollment - QR code based class joining
 
+- **[AI_GYM_COACH](https://princeaigymcoachlandingpage.vercel.app/)**
+  - 👤 Developed an interactive, AI-powered fitness assistant web          application designed to help users track workouts, maintain form, and receive personalized coaching insights.
+  - ⚡ Tech Stack: Python, Streamlit, Supabase, Vercel, Render.
+  - 🎓 Developed an AI-powered fitness assistant web app using Python, MediaPipe, Streamlit, and Supabase for real-time posture tracking and workout logging
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
