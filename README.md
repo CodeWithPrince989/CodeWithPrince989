@@ -108,7 +108,6 @@
   <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer" title="Kubernetes documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="45" alt="Kubernetes"/></a>
   <a href="https://leetcode.com/explore/" target="_blank" rel="noreferrer" title="LeetCode study plans"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" width="45" alt="LeetCode"/></a>
   <a href="https://matplotlib.org/stable/users/index.html" target="_blank" rel="noreferrer" title="Matplotlib documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="45" alt="Matplotlib"/></a>
-
   <a href="https://redis.io/docs/latest/" target="_blank" rel="noreferrer" title="Redis documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="45" alt="Redis"/></a>
   <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noreferrer" title="Terraform documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="45" alt="Terraform"/></a>
   <a href="https://learn.microsoft.com/en-us/windows/" target="_blank" rel="noreferrer" title="Windows documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" width="45" alt="Windows 11"/></a>
