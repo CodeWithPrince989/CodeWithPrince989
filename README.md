@@ -31,22 +31,17 @@
 
 <p>Click any icon to open its official documentation or learning guide.</p>
 
-### Languages & Fundamentals
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer" title="Java documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer" title="Bootstrap documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer" title="NestJS documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
-  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer" title="MySQL documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer" title="PostgreSQL documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
-
 ### Web Development
 
-<p>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="45" alt="JavaScript" /></a>
+  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer" title="Java documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="45" alt="Java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" title="HTML documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="45" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" title="CSS documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="45" alt="CSS3" /></a>
+  <a href="https://getbootstrap.com/docs/" target="_blank" rel="noreferrer" title="Bootstrap documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="45" alt="Bootstrap" /></a>
+  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer" title="NestJS documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="45" alt="NestJS" /></a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer" title="MySQL documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="45" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer" title="PostgreSQL documentation"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="45" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer" title="MongoDB documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" alt="MongoDB"/></a>
   <a href="https://expressjs.com/en/4x/api.html" target="_blank" rel="noreferrer" title="Express documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" alt="Express"/></a>
   <a href="https://react.dev/learn" target="_blank" rel="noreferrer" title="React documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/></a>
@@ -64,7 +59,7 @@
 
 ### AI & Machine Learning
 
-<p align="left">
+<p align="center">
   <a href="https://docs.opencv.org/" target="_blank" rel="noreferrer" title="OpenCV documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45" alt="OpenCV"/></a>
   <a href="https://openal.org/documentation/" target="_blank" rel="noreferrer" title="OpenAL documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openal/openal-original.svg" width="45" alt="OpenAL"/></a>
   <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer" title="pandas documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="45" alt="pandas"/></a>
@@ -83,22 +78,21 @@
 
 ### Explore Next: Modern & Cloud-Native
 
-<p align="left">
-  <em>Topics to explore next — not a list of tools I currently use.</em><br/><br/>
-  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go documentation"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go"/></a>
-  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer" title="The Rust Programming Language"><img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/></a>
-  <a href="https://bun.sh/docs" target="_blank" rel="noreferrer" title="Bun documentation"><img src="https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white" alt="Bun"/></a>
-  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS documentation"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"/></a>
-  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer" title="Microsoft Azure documentation"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure"/></a>
-  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer" title="Google Cloud documentation"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
-  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer" title="GitHub Actions documentation"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/></a>
-  <a href="https://grafana.com/docs/" target="_blank" rel="noreferrer" title="Grafana documentation"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana"/></a>
-  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer" title="Prometheus documentation"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/></a>
+<p align="center">
+  <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" title="Go documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" alt="Go"/></a>
+  <a href="https://doc.rust-lang.org/book/" target="_blank" rel="noreferrer" title="The Rust Programming Language"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45" alt="Rust"/></a>
+  <a href="https://bun.sh/docs" target="_blank" rel="noreferrer" title="Bun documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="45" alt="Bun"/></a>
+  <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" width="45" alt="AWS"/></a>
+  <a href="https://learn.microsoft.com/en-us/azure/" target="_blank" rel="noreferrer" title="Microsoft Azure documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" alt="Microsoft Azure"/></a>
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer" title="Google Cloud documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" alt="Google Cloud"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer" title="GitHub Actions documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="45" alt="GitHub Actions"/></a>
+  <a href="https://grafana.com/docs/" target="_blank" rel="noreferrer" title="Grafana documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="45" alt="Grafana"/></a>
+  <a href="https://prometheus.io/docs/introduction/overview/" target="_blank" rel="noreferrer" title="Prometheus documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" width="45" alt="Prometheus"/></a>
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="center">
   <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer" title="Git documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/></a>
   <a href="https://www.kernel.org/doc/html/latest/" target="_blank" rel="noreferrer" title="Linux documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" alt="Linux"/></a>
   <a href="https://documentation.ubuntu.com/" target="_blank" rel="noreferrer" title="Ubuntu documentation"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" alt="Ubuntu"/></a>
